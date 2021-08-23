@@ -5,3 +5,4 @@
 * 01_GitBranches_Report.docx - отчет по выполненному заданию: создание репозитория, клонирование на локальный ПК, экспорт коллекций из Postman, push, работа с ветками.
 * Git_test.postman_collection.json - коллекция postman из задания 01
 * Git_test.postman_environment.json - окружение postman из задания 01
+* SSH-ключ_коммиты_пуши.txt - ssh-keygen/git config/clone/status/add/commit/push
